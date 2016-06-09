@@ -1,6 +1,8 @@
 //  FISAppDelegate.h
 
 #import <UIKit/UIKit.h>
+#import "FISItem.h"
+#import "FISShoppingCart.h"
 
 @interface FISAppDelegate : UIResponder <UIApplicationDelegate>
 
